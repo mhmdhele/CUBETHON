@@ -1,3 +1,2 @@
 * linguist-vendored
 *.asp.net linguist-vendored=false
-*.java linguist-detectable=true
