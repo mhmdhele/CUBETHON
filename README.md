@@ -1,2 +1,4 @@
 # CUBETHON
-This Is My First Game, It's 3D And Platformer, Actually It Is Really Basic And Doesn't Have Any Advanced Features
+This Is My First Unity Project, It's 3D And Platformer Game, In This Project I Focous To Improve My Knowledge About Basics
+Language: c#
+Includes: Movement, Score, Level, Smooth Camera, Obstacles, Prefabs, Dynamic Collision, Game Manager, A little Animation And etc...
